@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Archana-Shegur_Portfolio/static/css/main.390fd56b.css",
+    "main.js": "/Archana-Shegur_Portfolio/static/js/main.2376239d.js",
+    "static/js/453.8ab44547.chunk.js": "/Archana-Shegur_Portfolio/static/js/453.8ab44547.chunk.js",
+    "static/media/pro1.png": "/Archana-Shegur_Portfolio/static/media/pro1.1040c72c71139d23b832.png",
+    "static/media/facepro.jpeg": "/Archana-Shegur_Portfolio/static/media/facepro.383e87013d11cb6c674d.jpeg",
+    "static/media/pro2.png": "/Archana-Shegur_Portfolio/static/media/pro2.98f1f6ac68b2b0339233.png",
+    "static/media/quizmp.jpeg": "/Archana-Shegur_Portfolio/static/media/quizmp.66e78c2158623bbce573.jpeg",
+    "static/media/portfolioss.jpeg": "/Archana-Shegur_Portfolio/static/media/portfolioss.5febdd9eb218d4ceb529.jpeg",
+    "static/media/drow1.jpg": "/Archana-Shegur_Portfolio/static/media/drow1.8539ea1aa0eb91197eb8.jpg",
+    "static/media/1.png": "/Archana-Shegur_Portfolio/static/media/1.7204d66bdfdc804f75b4.png",
+    "index.html": "/Archana-Shegur_Portfolio/index.html",
+    "main.390fd56b.css.map": "/Archana-Shegur_Portfolio/static/css/main.390fd56b.css.map",
+    "main.2376239d.js.map": "/Archana-Shegur_Portfolio/static/js/main.2376239d.js.map",
+    "453.8ab44547.chunk.js.map": "/Archana-Shegur_Portfolio/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390fd56b.css",
+    "static/js/main.2376239d.js"
+  ]
+}
