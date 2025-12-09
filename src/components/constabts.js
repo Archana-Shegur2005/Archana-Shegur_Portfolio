@@ -93,7 +93,7 @@ export const internships=[
         id:0,
         role:"Full Stack Web Developer",
         company:"CodeTech IT Solution PVT. LTD",
-        date:"5 December 2024 - Present",
+        date:"5 December 2024 - 5 Februaryv2025",
         desc:"Working on the full stack of web applications, focusing on building scalable applications using React.js, Node.js, and MongoDB. Key contributions include implementing responsive designs using Tailwind CSS, integrating APIs for seamless functionality.",
         skills:[
             "HTML",
@@ -141,7 +141,7 @@ export const educations=[
         role:"BTech",
         company:"Computer Science & Engineering",
         date:"N. K. Orchid College of Engineering & Technology, Solapur",
-        desc:"Currently I'm pursuing in N. K. Orchid College of Engineering & Technology 3rd year(CSE) from DBATU University",
+        desc:"Currently I'm pursuing in N. K. Orchid College of Engineering & Technology Final year(CSE) from DBATU University",
         doc:"2023-2026",
     },
     {
@@ -161,6 +161,6 @@ export const educations=[
         company:"",
         date:"Shri Dharmanna Sadhul Prashala",
         desc:"Complete SSC with 89.40%",
-        doc:"2017-2020"
+        doc:"2019-2020"
     },
 ]
